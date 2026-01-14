@@ -1,0 +1,7 @@
+{
+  "name": "RestoKitchen - Next-Gen POS",
+  "description": "A premium, AI-integrated Restaurant Point of Sale system featuring real-time kitchen display, smart billing, and intelligent menu assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
